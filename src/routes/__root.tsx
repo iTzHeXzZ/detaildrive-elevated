@@ -37,6 +37,10 @@ export const Route = createRootRoute({
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Detail Drive — Premium Fahrzeugaufbereitung" },
+      { name: "twitter:description", content: "Premium Car Detailing & mobile Fahrzeugaufbereitung in Swisttal." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0e034af3-0c21-419d-9dee-7f519ac86e89/id-preview-81aa439a--840c9726-2b6e-447a-b6f4-1e48a36b92b2.lovable.app-1777654801585.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0e034af3-0c21-419d-9dee-7f519ac86e89/id-preview-81aa439a--840c9726-2b6e-447a-b6f4-1e48a36b92b2.lovable.app-1777654801585.png" },
     ],
     links: [
       {
